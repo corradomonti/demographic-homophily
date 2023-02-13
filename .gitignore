@@ -1,0 +1,9 @@
+unversioned*
+data-reddit-anonymized.tar.gz
+.DS_Store
+*.pyc
+*.p
+*.pickle
+.ipynb_checkpoints
+Untitled*.ipynb
+data/reddit/*/*.csv
