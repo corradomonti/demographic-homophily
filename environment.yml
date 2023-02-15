@@ -1,0 +1,15 @@
+name: demographic-homophily
+dependencies:
+  - python >= 3.8
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - pip
+  - pip:
+     - statsmodels == 0.13
+  - freetype
